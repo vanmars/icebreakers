@@ -1,0 +1,56 @@
+html {
+  box-sizing: border-box;
+  background-color: #CEEAF7; 
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: #828A95;
+  text-align: center;
+}
+
+header {
+  margin-top: 5%;
+}
+
+h1 {
+  color:#828A95;
+  font-family: "Shadows Into Light", cursive;
+  font-size: 5vh;
+}
+
+main {
+  min-height: 50vh;
+  
+} 
+
+section {
+ width: 50%;
+ margin: auto;
+ padding: 20px;
+ background-color: #CCD7E4;
+ border-radius: 5%;
+ border: white 10px dashed;
+}
+
+footer {
+  background-color: #63ABBA;
+  position: absolute;
+  bottom:0;
+  right: 0;
+  width: 100%;
+  color: white;
+  font-size: 18px;
+  text-align: left;
+}
+
+#icebreaker-img {
+  height: 20vh;
+  width: 20vh;
+  border-radius: 50%;
+}
+
+#copyright {
+  padding: 20px;
+}
